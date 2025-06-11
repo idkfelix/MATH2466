@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "",
     },
     locale: "en-US",
     baseUrl: "idkfelix.github.io/MATH2466/",
